@@ -22,3 +22,9 @@ Cooldown: 30 seconds cooldown after each feeding to avoid repeat triggers
 https://drive.google.com/file/d/1JoAQP-mERtnUjSHvJwROq6jqbFnX6St1/view?usp=sharing
 
 ------------------------------------------------------------------------------------------
+# How to install the rquirements
+------------------------------------------------------------------------------------------
+
+pip install -r requirements.txt
+
+------------------------------------------------------------------------------------------
